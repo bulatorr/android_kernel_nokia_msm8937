@@ -1,0 +1,3 @@
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/bulatorr/KernelSU-Next

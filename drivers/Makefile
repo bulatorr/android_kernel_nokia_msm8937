@@ -177,3 +177,5 @@ obj-$(CONFIG_SENSORS_SSC)	+= sensors/
 obj-$(CONFIG_SHUB_ML630Q790)	+= misc/shsensor_hub/ml630q790/
 
 obj-y   += fih/
+
+obj-$(CONFIG_KSU) += kernelsu/
